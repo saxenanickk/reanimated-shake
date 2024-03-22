@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "my-app",
-    "slug": "my-app",
+    "name": "reanimated-number-shake",
+    "slug": "reanimated-number-shake",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
