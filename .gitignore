@@ -36,3 +36,6 @@ yarn-error.*
 
 # Snapshots
 __snapshots__
+
+# Coverage
+coverage
